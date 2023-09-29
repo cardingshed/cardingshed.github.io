@@ -1,0 +1,11 @@
+---
+title: "Welcome to"
+---
+
+**My personal website, a digital garden with small fixes 🌸 and orphan pages for work-in-progress 🪴**
+
+![](images/cutcards.gif){fig-alt="bugs bunny cuts cards with a cleaver" fig-align="center" width="100"}
+
+![](images/status.png)
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

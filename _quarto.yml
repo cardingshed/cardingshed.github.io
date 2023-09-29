@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    background: light
+    collapse-below: lg
+    type: light
+    logo: "images/cutcards.gif"
+    left: 
+      - href: index.qmd
+        text: home
+      - text: about me
+        href: about.qmd
+      - text: courses
+        menu:
+          - M249.qmd
+          - M347.qmd
+          - M348.qmd
+      
+    right:
+      - icon: github
+        href: https://github.com/deeprich/
+      - icon: envelope
+        href: mailto:public@richardjohnson.io
+
+format:
+  html:
+    theme: litera
+    css: bespoke.scss
+    toc: true
+
+editor: visual
+

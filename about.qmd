@@ -1,0 +1,15 @@
+---
+title: "richard johnson"
+image: "images/portrait3.jpg"
+about: 
+  template: trestles
+  image-shape: round
+---
+
+# Welcome
+
+An ex card-player, I can be found teaching at Andrew Robson Bridge, and at the Open University.
+
+```{r}
+1 + 1
+```
