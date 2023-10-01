@@ -13,7 +13,7 @@ about:
       href: https://github.com/cardingshed
 ---
 
-An ex card-player, I can be found working at [Andrew Robson Bridge](www.andrewrobson.co.uk), and teaching for the [Open University](https://www5.open.ac.uk/stem/mathematics-and-statistics/).
+An ex card-player, I can be found working at [Andrew Robson Bridge](https://www.andrewrobson.co.uk), and teaching for the [Open University](https://www5.open.ac.uk/stem/mathematics-and-statistics/).
 
 I'm a statistician interested in uncertainty - `R` is the first-class language that I prefer, occasionally a little `Python`.
 
