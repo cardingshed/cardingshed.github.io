@@ -4,12 +4,17 @@ image: "images/portrait3.jpg"
 about: 
   template: trestles
   image-shape: round
+  links:
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/cardingshed/
+    - icon: github
+      text: GitHub
+      href: https://github.com/cardingshed
 ---
 
-# Welcome
+An ex card-player, I can be found working at [Andrew Robson Bridge](www.andrewrobson.co.uk), and teaching for the [Open University](https://www5.open.ac.uk/stem/mathematics-and-statistics/).
 
-An ex card-player, I can be found teaching at Andrew Robson Bridge, and at the Open University.
+I'm a statistician interested in uncertainty - `R` is the first-class language that I prefer, occasionally a little `Python`.
 
-```{r}
-1 + 1
-```
+I enjoy playing with language(s), run trails and study yoga. I 💚 learning, so always happy to hear *your* interests!

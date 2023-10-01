@@ -1,10 +1,10 @@
 ---
-title: "Welcome to"
+title: "Welcome"
 ---
 
-**My personal website, a digital garden with small fixes 🌸 and orphan pages for work-in-progress 🪴**
+**To my personal website, a digital garden with small fixes 🌸 and orphan pages for work-in-progress 🪴**
 
-![](images/cutcards.gif){fig-alt="bugs bunny cuts cards with a cleaver" fig-align="center" width="100"}
+![](images/cutcards.gif){fig-alt="bugs bunny cuts cards with a cleaver" fig-align="center" width="150"}
 
 ![](images/status.png)
 
