@@ -20,7 +20,7 @@ website:
           - M347.qmd
           - M348.qmd
       - text: library
-        href: https://www.cardingshed.com/library/
+        href: library/
       
     right:
       - icon: github
