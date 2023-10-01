@@ -1,0 +1,5 @@
+---
+permalink: /404.html
+---
+
+<img src="/images/construction.jpg" align="left"/> **Oops!** This page doesn't exist - perhaps construction work is going on. <br> Take me home: [cardingshed.com](https://www.cardingshed.com).

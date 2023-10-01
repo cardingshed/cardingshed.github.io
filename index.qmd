@@ -4,8 +4,14 @@ title: "Welcome"
 
 **To my personal website, a digital garden with small fixes 🌸 and orphan pages for work-in-progress 🪴**
 
-![](images/cutcards.gif){fig-alt="bugs bunny cuts cards with a cleaver" fig-align="center" width="150"}
+::: {#fig-carding layout-ncol="2"}
+![](images/merylsheep.gif)
+
+![](images/cutcards.gif){width="300"}
+
+Carding by Muppet Wiki and Warner Bros.
+:::
 
 ![](images/status.png)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+

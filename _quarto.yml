@@ -25,7 +25,10 @@ website:
         href: https://github.com/deeprich/
       - icon: envelope
         href: mailto:public@richardjohnson.io
-
+    
+    page-footer: |
+      richard johnson 2023 using 
+      ![](/images/quarto.png)
 format:
   html:
     theme: litera
