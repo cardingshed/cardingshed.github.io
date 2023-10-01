@@ -19,6 +19,8 @@ website:
           - M249.qmd
           - M347.qmd
           - M348.qmd
+      - text: library
+        href: https//www.cardingshed.com/library
       
     right:
       - icon: github
