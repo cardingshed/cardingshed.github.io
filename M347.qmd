@@ -3,7 +3,6 @@ title: "M347 Mathematical Statistics"
 about:
   id: context
   template: solana
-  image: "images/einstein.jpg"
 ---
 
 ::: {#context}
