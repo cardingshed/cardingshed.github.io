@@ -9,7 +9,7 @@ title: "Welcome"
 
 ![](images/cutcards.gif){width="300"}
 
-Carding by Muppet Wiki and Warner Bros.
+"Carding" interpreted by the Muppets and Warner Bros.
 :::
 
 ![](images/status.png)
