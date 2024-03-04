@@ -1,23 +1,30 @@
 ---
-title: "M348 Applied Statistical Modelling"
-about:
-  id: context
-  template: solana
-  image: "images/statart.png"
+title: "M348"
+subtitle: "Applied statistical modelling"
+format: 
+  revealjs:
+    theme: sky
+footer: <https://www.open.ac.uk/courses/modules/m348>
+logo: OU_image.png
+css: logo.css
+editor: visual
 ---
 
-::: {#context}
-[M348](https://www.open.ac.uk/courses/modules/m348) is a third level Maths and Statistics model, using R and Jupyter notebooks, with three sections:
+## Quarto
 
-1.  linear models
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
 
-2.  generalized linear models
+## Bullets
 
-3.  A: Econometrics or B: Data Science
-:::
+When you click the **Render** button a document will be generated that includes:
 
-# tutorials
+-   Content authored with markdown
+-   Output from executable code
 
-Added through the academic year
+## Code
 
-# apps
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
