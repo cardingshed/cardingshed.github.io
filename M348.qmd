@@ -10,21 +10,46 @@ css: logo.css
 editor: visual
 ---
 
-## Quarto
+## You will enjoy M348 if...
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+- you love exploring interesting datasets
+- you want to solve practical problems by modelling
+- econometrics or data science sounds fun
+- you want amazing, free statistical software #rstats
 
-## Bullets
+## Coursebooks
+Three coursebooks (including both strands!) and a handbook (click to enlarge)
 
-When you click the **Render** button a document will be generated that includes:
+::: {layout="[[1,1]]"}
+![](extract2.png){.lightbox}
 
--   Content authored with markdown
--   Output from executable code
+![](coursebooks2.png)
 
-## Code
+:::
+## Computing Environment
+- R (free, open-source, first-class language 💚)
+- All software runs in browser - VLE with all packages preinstalled and ready to go.
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+![](vle.png)
+
+## Day-in-the-life of M348
+
+![](mannaAsh.png)
 
 ```{r}
-1 + 1
+#| echo: true
+#| error: true
+#| output-location: fragment
+load("mannaAsh.RData")
+summary(mannaash)
 ```
+
+## Day-in-the-life of M348 (take 2!)
+
+```{r}
+#| echo: true
+load("mannaAsh.RData")
+summary(mannaAsh)
+```
+
+Joy!

@@ -21,11 +21,46 @@
     "text": "An ex card-player, I can be found working at Andrew Robson Bridge, and teaching for the Open University.\nI’m a statistician interested in uncertainty - R is the first-class language that I prefer, occasionally a little Python.\nI enjoy playing with natural languages too, run trails and study yoga. I 💚 learning, so always happy to hear your interests!"
   },
   {
-    "objectID": "M348.html",
-    "href": "M348.html",
-    "title": "M348 Applied Statistical Modelling",
-    "section": "",
-    "text": "M348 is a third level Maths and Statistics model, using R and Jupyter notebooks, with three sections:\n\nlinear models\ngeneralized linear models\nA: Econometrics or B: Data Science\n\n\n    \n    \n  \n\n\n\ntutorials\nAdded through the academic year\n\n\napps"
+    "objectID": "M348.html#quarto",
+    "href": "M348.html#quarto",
+    "title": "M348",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "M348.html#bullets",
+    "href": "M348.html#bullets",
+    "title": "M348",
+    "section": "Bullets",
+    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
+  },
+  {
+    "objectID": "M348.html#code",
+    "href": "M348.html#code",
+    "title": "M348",
+    "section": "Code",
+    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2\n\n\n\n\n\nhttps://www.open.ac.uk/courses/modules/m348"
+  },
+  {
+    "objectID": "M348/M348.html#quarto",
+    "href": "M348/M348.html#quarto",
+    "title": "M348",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "M348/M348.html#bullets",
+    "href": "M348/M348.html#bullets",
+    "title": "M348",
+    "section": "Bullets",
+    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
+  },
+  {
+    "objectID": "M348/M348.html#code",
+    "href": "M348/M348.html#code",
+    "title": "M348",
+    "section": "Code",
+    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2\n\n\n\n\n\nhttps://www.open.ac.uk/courses/modules/m348"
   },
   {
     "objectID": "M249.html",

@@ -36,6 +36,5 @@ format:
     theme: litera
     css: bespoke.scss
     toc: true
-
 editor: visual
 
