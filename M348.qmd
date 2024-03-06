@@ -5,38 +5,40 @@ format:
   revealjs:
     theme: sky
 footer: <https://www.open.ac.uk/courses/modules/m348>
-logo: OU_image.png
+logo: images/OU_image.png
 css: logo.css
 editor: visual
 ---
 
 ## You will enjoy M348 if...
 
-::: {.incremental}
-- you love exploring interesting datasets
-- you want to solve practical problems by modelling
-- econometrics or data science sounds fun
-- you want amazing, free statistical software #rstats
+::: incremental
+-   you love exploring interesting datasets
+-   you want to solve practical problems by modelling
+-   econometrics or data science sounds fun
+-   you want amazing, free statistical software #rstats
 :::
 
 ## Coursebooks
+
 Three coursebooks (including both strands!) and a handbook (click to enlarge)
 
 ::: {layout="[[1,1]]"}
-![](extract2.png){.lightbox}
+![](images/extract2.png){.lightbox}
 
-![](coursebooks2.png)
-
+![](images/coursebooks2.png)
 :::
-## Computing Environment
-- R (free, open-source, first-class language 💚)
-- All software runs in browser - VLE with all packages preinstalled and ready to go.
 
-![](vle.png)
+## Computing Environment
+
+-   R (free, open-source, first-class language 💚)
+-   All software runs in browser - VLE with all packages preinstalled and ready to go.
+
+![](images/vle.png)
 
 ## Day-in-the-life of M348
 
-![](mannaAsh.png)
+![](images/mannaAsh.png)
 
 ```{r}
 #| echo: true
@@ -46,7 +48,7 @@ load("mannaAsh.RData")
 summary(mannaash)
 ```
 
----
+------------------------------------------------------------------------
 
 ```{r}
 #| echo: true
@@ -56,7 +58,7 @@ summary(mannaAsh)
 
 Aha!
 
----
+------------------------------------------------------------------------
 
 ```{r}
 #| echo: true
@@ -67,7 +69,7 @@ legend("bottomleft", title="side", legend=levels(side), col=5,
 pch = seq_along(levels(side)))
 ```
 
----
+------------------------------------------------------------------------
 
 ```{r}
 #| echo: true
@@ -78,12 +80,14 @@ heightParallel <- lm(height ~ side + diameter, data=mannaAsh)
 anova(heightSimple, heightParallel)
 ```
 
-So the formal test result is significant - confirming our intuition.   We should include "side" in the model, giving two parallel slopes.
+So the formal test result is significant - confirming our intuition. We should include "side" in the model, giving two parallel slopes.
 
 ## Thanks for visiting!
 
-The tutors and students of M348 are a wonderful mix of economists, computer scientists, mathematicians... 
-You'll love it!
+The tutors and students of M348 are a wonderful mix of economists, computer scientists, mathematicians... You'll love it!
 
-<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen>
 
+</iframe>
+
+<p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>

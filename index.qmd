@@ -13,5 +13,3 @@ title: "Welcome"
 :::
 
 ![](images/status.png)
-
-
