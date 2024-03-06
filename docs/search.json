@@ -1,17 +1,94 @@
 [
   {
+    "objectID": "M249.html",
+    "href": "M249.html",
+    "title": "M249 Practical Modern Statistics",
+    "section": "",
+    "text": "M249 is a second level Maths and Statistics model, with four sections:\n\nmedical statistics\ntime series\nmultivariate analysis\nBayesian statistics"
+  },
+  {
+    "objectID": "M249.html#bayesian-triplot",
+    "href": "M249.html#bayesian-triplot",
+    "title": "M249 Practical Modern Statistics",
+    "section": "Bayesian triplot",
+    "text": "Bayesian triplot\nSome students have found that the windows app “Learn Bayes” does not properly display triplots when running in virtualization software (e.g. Parallels on macOS).\nThis is my in-browser version, created with Shiny: betabinomial triplot"
+  },
+  {
+    "objectID": "M348.html#you-will-enjoy-m348-if",
+    "href": "M348.html#you-will-enjoy-m348-if",
+    "title": "M348",
+    "section": "You will enjoy M348 if…",
+    "text": "You will enjoy M348 if…\n\n\nyou love exploring interesting datasets\nyou want to solve practical problems by modelling\neconometrics or data science sounds fun\nyou want amazing, free statistical software #rstats"
+  },
+  {
+    "objectID": "M348.html#coursebooks",
+    "href": "M348.html#coursebooks",
+    "title": "M348",
+    "section": "Coursebooks",
+    "text": "Coursebooks\nThree coursebooks (including both strands!) and a handbook (click to enlarge)"
+  },
+  {
+    "objectID": "M348.html#computing-environment",
+    "href": "M348.html#computing-environment",
+    "title": "M348",
+    "section": "Computing Environment",
+    "text": "Computing Environment\n\nR (free, open-source, first-class language 💚)\nAll software runs in browser - VLE with all packages preinstalled and ready to go."
+  },
+  {
+    "objectID": "M348.html#day-in-the-life-of-m348",
+    "href": "M348.html#day-in-the-life-of-m348",
+    "title": "M348",
+    "section": "Day-in-the-life of M348",
+    "text": "Day-in-the-life of M348\n\n\nload(\"mannaAsh.RData\")\nsummary(mannaash)\n\n\n\nError in eval(expr, envir, enclos): object 'mannaash' not found"
+  },
+  {
+    "objectID": "M348.html#thanks-for-visiting",
+    "href": "M348.html#thanks-for-visiting",
+    "title": "M348",
+    "section": "Thanks for visiting!",
+    "text": "Thanks for visiting!\nThe tutors and students of M348 are a wonderful mix of economists, computer scientists, mathematicians… You’ll love it!\n\n\n\nvia GIPHY\n\n\n\n\n\nhttps://www.open.ac.uk/courses/modules/m348"
+  },
+  {
+    "objectID": "M347.html#you-will-enjoy-m347-if",
+    "href": "M347.html#you-will-enjoy-m347-if",
+    "title": "M347",
+    "section": "You will enjoy M347 if…",
+    "text": "You will enjoy M347 if…\n\n\nyou’re interested in why stats works mathematically\nyou love the idea of taking a deep dive into Bayes\nyou’re curious about when your data science models are valid (and when they aren’t!)\nyou aren’t afraid of a little algebra 😁"
+  },
+  {
+    "objectID": "M347.html#coursebooks",
+    "href": "M347.html#coursebooks",
+    "title": "M347",
+    "section": "Coursebooks",
+    "text": "Coursebooks\nFour coursebooks, four extra exercise books and a handbook! (click to enlarge)"
+  },
+  {
+    "objectID": "M347.html#interactive-web-based-content",
+    "href": "M347.html#interactive-web-based-content",
+    "title": "M347",
+    "section": "Interactive web-based content",
+    "text": "Interactive web-based content\nM347 units were written to be browser-friendly (bonus to hard-copy and pdf versions)…\n\n\nScreencasts (short lectures) pre-recorded for many key topics."
+  },
+  {
+    "objectID": "M347.html#day-in-the-life-of-m347",
+    "href": "M347.html#day-in-the-life-of-m347",
+    "title": "M347",
+    "section": "Day-in-the-life of M347",
+    "text": "Day-in-the-life of M347\nFor musicians - scales; For mathematicians - exercises!"
+  },
+  {
+    "objectID": "M347.html#thanks-for-visiting",
+    "href": "M347.html#thanks-for-visiting",
+    "title": "M347",
+    "section": "Thanks for visiting!",
+    "text": "Thanks for visiting!\nI enjoyed M347 as an OU student, and hope you find it as intriguing and rewarding as I did!\n\n\n\n\n© Sidney Harris / ScienceCartoonsPlus.com\n\n\n\n\n\n\nhttps://www.open.ac.uk/courses/modules/m347\n\n\n\n© Sidney Harris / ScienceCartoonsPlus.com"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "To my personal website, a digital garden with small fixes 🌸 and orphan pages for work-in-progress 🪴\n\n\n\n\n\n\n\n\n\n\nFigure 1: “Carding” interpreted by the Muppets and Warner Bros."
-  },
-  {
-    "objectID": "M347.html",
-    "href": "M347.html",
-    "title": "M347 Mathematical Statistics",
-    "section": "",
-    "text": "M347 is a third level Maths and Statistics model, taking a deep dive into the mathematics behind key statistical ideas as diverse as the Central Limit Theorem, MCMC and generalized linear models.\n\n    \n  \n\n\n\ntutorials\nAdded through the academic year\n\n\napps"
+    "text": "To my personal website, a digital garden with small fixes 🌸 and orphan pages for work-in-progress 🪴\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 1: “Carding” interpreted by the Muppets and Warner Bros."
   },
   {
     "objectID": "about.html",
@@ -19,27 +96,6 @@
     "title": "richard johnson",
     "section": "",
     "text": "An ex card-player, I can be found working at Andrew Robson Bridge, and teaching for the Open University.\nI’m a statistician interested in uncertainty - R is the first-class language that I prefer, occasionally a little Python.\nI enjoy playing with natural languages too, run trails and study yoga. I 💚 learning, so always happy to hear your interests!"
-  },
-  {
-    "objectID": "M348.html#quarto",
-    "href": "M348.html#quarto",
-    "title": "M348",
-    "section": "Quarto",
-    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
-  },
-  {
-    "objectID": "M348.html#bullets",
-    "href": "M348.html#bullets",
-    "title": "M348",
-    "section": "Bullets",
-    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
-  },
-  {
-    "objectID": "M348.html#code",
-    "href": "M348.html#code",
-    "title": "M348",
-    "section": "Code",
-    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2\n\n\n\n\n\nhttps://www.open.ac.uk/courses/modules/m348"
   },
   {
     "objectID": "M348/M348.html#quarto",
@@ -60,20 +116,6 @@
     "href": "M348/M348.html#code",
     "title": "M348",
     "section": "Code",
-    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2\n\n\n\n\n\nhttps://www.open.ac.uk/courses/modules/m348"
-  },
-  {
-    "objectID": "M249.html",
-    "href": "M249.html",
-    "title": "M249 Practical Modern Statistics",
-    "section": "",
-    "text": "M249 is a second level Maths and Statistics model, with four sections:\n\nmedical statistics\ntime series\nmultivariate analysis\nBayesian statistics"
-  },
-  {
-    "objectID": "M249.html#bayesian-triplot",
-    "href": "M249.html#bayesian-triplot",
-    "title": "M249 Practical Modern Statistics",
-    "section": "Bayesian triplot",
-    "text": "Bayesian triplot\nSome students have found that the windows app “Learn Bayes” does not properly display triplots when running in virtualization software (e.g. Parallels on macOS).\nThis is my in-browser version, created with Shiny: betabinomial triplot"
+    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2\n\n\n\n\n\n\nhttps://www.open.ac.uk/courses/modules/m348"
   }
 ]
