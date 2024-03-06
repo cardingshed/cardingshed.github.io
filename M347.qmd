@@ -13,14 +13,15 @@ lightbox: true
 
 ## You will enjoy M347 if...
 
-::: {.incremental}
-- you're interested in **why** stats works mathematically
-- you love the idea of taking a deep dive into Bayes
-- you're curious about when your data science models are valid (and when they aren't!)
-- you aren't afraid of a little algebra 😁
+::: incremental
+-   you're interested in **why** stats works mathematically
+-   you love the idea of taking a deep dive into Bayes
+-   you're curious about when your data science models are valid (and when they aren't!)
+-   you aren't afraid of a little algebra 😁
 :::
 
 ## Coursebooks
+
 Four coursebooks, four extra exercise books and a handbook! (click to enlarge)
 
 ::: {layout="[[1,1,1]]"}
@@ -35,25 +36,23 @@ Four coursebooks, four extra exercise books and a handbook! (click to enlarge)
 
 M347 units were written to be browser-friendly (bonus to hard-copy and pdf versions)...
 
-
 {{< video animate2.mp4 width="100%" height="100%">}}
 
 . . .
 
 Screencasts (short lectures) pre-recorded for many key topics.
 
----
+------------------------------------------------------------------------
 
 The standard bivariate normal distribution:
 
 $$f(z,w) = \frac{1}{2\pi \sqrt{1-\rho^2}}\exp \left[-\frac{1}{2} \left(\frac{z^2-2\rho zw + w^2}{1-\rho^2}\right)\right]$$
 
-. . . 
+. . .
 
-So if the correlation $\rho = 0$, this simplifies to:
-$$f(z,w) = \frac{1}{2\pi} \exp \left[-\frac{1}{2} \left({z^2 + w^2}\right)\right] $$
+So if the correlation $\rho = 0$, this simplifies to: $$f(z,w) = \frac{1}{2\pi} \exp \left[-\frac{1}{2} \left({z^2 + w^2}\right)\right] $$
 
-. . . 
+. . .
 
 $$f(z,w) = \frac{1}{\sqrt{2\pi}}\exp \left[-\frac{1}{2}z^2\right]\frac{1}{\sqrt{2\pi}}\exp \left[-\frac{1}{2}w^2\right] = f(z)f(w)$$
 
@@ -65,8 +64,7 @@ What famous result does this help us understand?
 
 For musicians - scales; For mathematicians - exercises!
 
-![](glmquestion.png){.lightbox width="60%" height="60%" fig-align="center"}
----
+## ![](glmquestion.png){.lightbox width="60%" height="60%" fig-align="center"}
 
 ![](glmanswer.png){.lightbox width="60%" height="60%" fig-align="center"}
 
@@ -77,6 +75,3 @@ I enjoyed M347 as an OU student, and hope you find it as intriguing and rewardin
 . . .
 
 ![© Sidney Harris / ScienceCartoonsPlus.com](harris.png)
-
-
-
