@@ -1,0 +1,60 @@
+---
+title: "Online Bridge course notes"
+about:
+  id: context
+  template: solana
+---
+
+::: callout-tip
+## Ways to Practice (makes perfect)!
+
+-   Practice playing the key hands by following the links in each topic.
+
+-   Try an app e.g. the free NeuralPlayBridge can play simple Acol reasonablyå.
+
+-   Try BridgeCast, and get a daily Bridge video from Andrew [click here](https://pipelinecrm.email/connect/l/e7dV94KApnSDrprxRzCs3g) to find out more. Enter code FREEMONTHBEG at checkout, to get the first month free (no credit card details needed).
+
+-   Supervised play is a great way to practice what you have learnt, we have daily sessions, both face-to-face at our Parsons Green club or online. Details of session times can be [found here](https://pipelinecrm.email/connect/l/BpG64mRuP0WE2BIwTFArwQ).
+:::
+
+------------------------------------------------------------------------
+
+# 1: Introduction to Bridge
+
+## Mechanics of the Game
+
+Replay today's deals: [First full auction](https://bridge-training.com/player?dds=qRgKhjQ8&lang=en) and [Second full hand](https://bridge-training.com/player?dds=HGPMED6w&lang=en)
+
+Welcome to Bridge! The notes for today's topic are here:
+
+[Week 1 Notes](https://www.cardingshed.com/images/1.pdf)
+
+## Scoring
+
+Bridge scoring is Byzantine, and if there's an accountant playing she'll probably win. There are a couple of key tactics though that will always motivate our bidding:
+
+::: callout-tip
+## Scoring Tactics
+
+Some high contracts attract bonuses, so are worth the risk. Six or Seven of something (super risky) is called a slam. More common and critically important is "Game":
+
+-   3NT
+
+-   4♥️ or 4♠️ (called the "majors")
+
+-   5♣️ or 5♦️ (called the "minors", rare)
+
+The other thing to know is that it's absolutely fine to miss your target by one or two tricks, the penalty for this is relatively small.
+:::
+
+For completeness, a thorough guide to scoring any bridge contract you might ever theoretically play is here:
+
+[Scoring Complete](https://www.cardingshed.com/images/Scoring.pdf)
+
+# 2: Balanced hands and Notrumps
+
+# 3: Unbalanced hands
+
+# 4: Defence and Overcalling
+
+# 5: Double and Preempting
