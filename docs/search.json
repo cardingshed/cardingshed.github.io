@@ -52,8 +52,8 @@
     "objectID": "M347.html#you-will-enjoy-m347-if",
     "href": "M347.html#you-will-enjoy-m347-if",
     "title": "M347",
-    "section": "You will enjoy M347 if…",
-    "text": "You will enjoy M347 if…\n\n\nyou’re interested in why stats works mathematically\nyou love the idea of taking a deep dive into Bayes\nyou’re curious about when your data science models are valid (and when they aren’t!)\nyou aren’t afraid of a little algebra 😁"
+    "section": "",
+    "text": "you’re interested in why stats works mathematically\nyou love the idea of taking a deep dive into Bayes\nyou’re curious about when your data science models are valid (and when they aren’t!)\nyou aren’t afraid of a little algebra 😁"
   },
   {
     "objectID": "M347.html#coursebooks",
@@ -67,7 +67,7 @@
     "href": "M347.html#interactive-web-based-content",
     "title": "M347",
     "section": "Interactive web-based content",
-    "text": "Interactive web-based content\nM347 units were written to be browser-friendly (bonus to hard-copy and pdf versions)…\n\n\nScreencasts (short lectures) pre-recorded for many key topics."
+    "text": "Interactive web-based content\nM347 units were written to be browser-friendly (bonus to hard-copy and pdf versions)…\n\n. . .\nScreencasts (short lectures) pre-recorded for many key topics.\n\nThe standard bivariate normal distribution:\n\\[f(z,w) = \\frac{1}{2\\pi \\sqrt{1-\\rho^2}}\\exp \\left[-\\frac{1}{2} \\left(\\frac{z^2-2\\rho zw + w^2}{1-\\rho^2}\\right)\\right]\\]\n. . .\nSo if the correlation \\(\\rho = 0\\), this simplifies to: \\[f(z,w) = \\frac{1}{2\\pi} \\exp \\left[-\\frac{1}{2} \\left({z^2 + w^2}\\right)\\right] \\]\n. . .\n\\[f(z,w) = \\frac{1}{\\sqrt{2\\pi}}\\exp \\left[-\\frac{1}{2}z^2\\right]\\frac{1}{\\sqrt{2\\pi}}\\exp \\left[-\\frac{1}{2}w^2\\right] = f(z)f(w)\\]\n. . .\nWhat famous result does this help us understand?"
   },
   {
     "objectID": "M347.html#day-in-the-life-of-m347",
@@ -81,7 +81,7 @@
     "href": "M347.html#thanks-for-visiting",
     "title": "M347",
     "section": "Thanks for visiting!",
-    "text": "Thanks for visiting!\nI enjoyed M347 as an OU student, and hope you find it as intriguing and rewarding as I did!\n\n\n\n\n© Sidney Harris / ScienceCartoonsPlus.com\n\n\n\n\n\n\nhttps://www.open.ac.uk/courses/modules/m347\n\n\n\n© Sidney Harris / ScienceCartoonsPlus.com"
+    "text": "Thanks for visiting!\nI enjoyed M347 as an OU student, and hope you find it as intriguing and rewarding as I did!\n. . .\n\n\n\n© Sidney Harris / ScienceCartoonsPlus.com\n\n\n\n\n\n© Sidney Harris / ScienceCartoonsPlus.com"
   },
   {
     "objectID": "index.html",
@@ -117,5 +117,33 @@
     "title": "M348",
     "section": "Code",
     "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2\n\n\n\n\n\n\nhttps://www.open.ac.uk/courses/modules/m348"
+  },
+  {
+    "objectID": "OnlineBridge.html",
+    "href": "OnlineBridge.html",
+    "title": "Online Bridge course notes",
+    "section": "",
+    "text": "Ways to Practice (makes perfect)!\n\n\n\n\nPractice playing the key hands by following the links in each topic.\nTry an app e.g. the free NeuralPlayBridge can play simple Acol reasonablyå.\nTry BridgeCast, and get a daily Bridge video from Andrew click here to find out more. Enter code FREEMONTHBEG at checkout, to get the first month free (no credit card details needed).\nSupervised play is a great way to practice what you have learnt, we have daily sessions, both face-to-face at our Parsons Green club or online. Details of session times can be found here."
+  },
+  {
+    "objectID": "OnlineBridge.html#mechanics-of-the-game",
+    "href": "OnlineBridge.html#mechanics-of-the-game",
+    "title": "Online Bridge course notes",
+    "section": "Mechanics of the Game",
+    "text": "Mechanics of the Game\nReplay today’s deals: First full auction and Second full hand\nWelcome to Bridge! The notes for today’s topic are here:\nWeek 1 Notes"
+  },
+  {
+    "objectID": "OnlineBridge.html#scoring",
+    "href": "OnlineBridge.html#scoring",
+    "title": "Online Bridge course notes",
+    "section": "Scoring",
+    "text": "Scoring\nBridge scoring is Byzantine, and if there’s an accountant playing she’ll probably win. There are a couple of key tactics though that will always motivate our bidding:\n\n\n\n\n\n\nScoring Tactics\n\n\n\nSome high contracts attract bonuses, so are worth the risk. Six or Seven of something (super risky) is called a slam. More common and critically important is “Game”:\n\n3NT\n4♥️ or 4♠️ (called the “majors”)\n5♣️ or 5♦️ (called the “minors”, rare)\n\nThe other thing to know is that it’s absolutely fine to miss your target by one or two tricks, the penalty for this is relatively small.\n\n\nFor completeness, a thorough guide to scoring any bridge contract you might ever theoretically play is here:\nScoring Complete"
+  },
+  {
+    "objectID": "M347.html",
+    "href": "M347.html",
+    "title": "M347",
+    "section": "",
+    "text": "you’re interested in why stats works mathematically\nyou love the idea of taking a deep dive into Bayes\nyou’re curious about when your data science models are valid (and when they aren’t!)\nyou aren’t afraid of a little algebra 😁"
   }
 ]

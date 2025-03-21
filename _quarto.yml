@@ -19,7 +19,7 @@ website:
           - M249.qmd
           - M347.qmd
           - M348.qmd
-      
+          - OnlineBridge.qmd
     right:
       - icon: github
         href: https://github.com/cardingshed/
@@ -27,7 +27,7 @@ website:
         href: mailto:public@richardjohnson.io
     
     page-footer: |
-      richard johnson 2023 using 
+      richard johnson 2025 using 
       ![](/images/quarto.png)
 format:
   html:
